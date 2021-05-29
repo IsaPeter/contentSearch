@@ -1,5 +1,6 @@
 # contentSearch
-This tool is a Python implementation of Gobuster and other directory brute-force tools. This tool is not intended to replace other tools, the reason why I wrote this, that educational purposes only. I would like to know better what, and how directory brute-forcing works.
+This tool is a Python implementation of Gobuster and other directory brute-force tools. This tool is not intended to replace other tools, the reason why I wrote this, that educational purposes only. I would like to know better what, and how directory brute-forcing works, so I wrote this tool.
+
 
 ## Usage
 
