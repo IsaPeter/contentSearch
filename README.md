@@ -42,3 +42,4 @@ $ contentSearch.py -u http://samplepage.com/ -w /path/to/wordlist.txt -t 120 -e 
 - The proxy switch is not implemented yet, only the help menu shows this existence.
 - create groups for argparse to more clear help menu.
 - implement content-length options (greater than, less than..)
+- recursive content discovery
